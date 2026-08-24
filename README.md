@@ -8,7 +8,7 @@
 
 <img align="right" alt="" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 🔭 I’m currently working on - <br> 
-• Machine Learning Models and AI automation <br><br>
+• Data Engineering pipelines <br><br>
 
 👯 I’m looking to collaborate on <br> 
 • Building a new web application.<br><br>
@@ -17,7 +17,7 @@
 • My 3D modeling project.<br><br>
 
 🌱 I’m currently learning <br>
-• Machine Learning and Ai automation <br><br>
+• Data Pipelines with cloud Services <br><br>
 
 💬 Ask me about<br>
 • Machine learning and Automating repetitive tasks.
